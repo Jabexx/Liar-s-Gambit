@@ -1,7 +1,0 @@
-{
-  "name": "liars-bar",
-  "private": true,
-  "scripts": {
-    "start": "node server.js"
-  }
-}
